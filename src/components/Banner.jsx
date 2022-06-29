@@ -1,6 +1,7 @@
 import React from 'react'
 
 import LandingBanner from "../assets/img/house-banner.png";
+import { Search } from './Search';
 
 
 export const Banner = () => {
@@ -22,6 +23,7 @@ export const Banner = () => {
                     <img className='' src={LandingBanner} alt="" />
                 </div>
             </div>
+            <Search />
 
         </section>
     )
