@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    background: #ccc;
-}
-
 @layer base {
     body {
         @apply font-primary bg-gray-200;
