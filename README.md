@@ -1,8 +1,13 @@
-﻿# Homeland App Website
+# Homeland App Website
  
- Made by: React.js framework and Tailwind Css
- 
- Screenshots from the project:
- 
- ![image](https://user-images.githubusercontent.com/68334383/176813716-97d28867-4e86-41da-a32e-41fa6e36122d.png)
+**Responsive Real Estate App Using React JS & Tailwind CSS**
 
+Taken from this [tutorial](https://www.youtube.com/watch?v=CHe_QJcTK5Y&t=3213s)
+<br />
+<br />
+You Can check the : **[LIVE DEMO](https://homeland-store.netlify.app/)**
+
+
+## Screenshots from the project:
+
+![image](https://github.com/cristianmihai01/real-estate-main/blob/main/preview.png)
